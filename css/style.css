@@ -47,7 +47,6 @@ i {
 }
 
 .randomizer-content {
-  width: 70%;
   display: flex;
   flex-direction: column;
   gap: 20px;
